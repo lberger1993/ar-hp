@@ -3,17 +3,15 @@
   <section class='content'>
     <!-- Info boxes -->
     <div class='row'>
-      <div class="alert alert-success alert-dismissible">
+      <div class="alert alert-title alert-dismissible">
         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
-        <h4><i class="icon fa fa-check"></i> CoPilot is open source!</h4>
-        Click on icon to check out it out on github. <a href='https://github.com/misterGF/CoPilot' target='_blank'><i class='fa fa-github fa-2x'></i></a>
-      </div>
-      <div class='col-md-3 col-sm-6 col-xs-12'>
+        <h4 id="large_title"><img src="/static/img/canada.svg" style="height:50px">
+          What do newly arrival people need in Canada? </h4> </div>
+          <div class='col-md-3 col-sm-6 col-xs-12'>
         <div class='info-box'>
           <span class='info-box-icon bg-aqua'><i class='ion ion-ios-gear-outline'></i></span>
-
           <div class='info-box-content'>
-            <span class='info-box-text'>CPU Traffic</span>
+            <span class='info-box-text'>Shelter</span>
             <span class='info-box-number'>90<small>%</small></span>
           </div>
           <!-- /.info-box-content -->
@@ -23,10 +21,10 @@
       <!-- /.col -->
       <div class='col-md-3 col-sm-6 col-xs-12'>
         <div class='info-box'>
-          <span class='info-box-icon bg-red'><i class='fa fa-google-plus'></i></span>
+          <span class='info-box-icon bg-red'><i class='ion ion-ios-pricetags-outline'></i></span>
 
           <div class='info-box-content'>
-            <span class='info-box-text'>Likes</span>
+            <span class='info-box-text'>Clothing</span>
             <span class='info-box-number'>41,410</span>
           </div>
           <!-- /.info-box-content -->
@@ -40,10 +38,10 @@
 
       <div class='col-md-3 col-sm-6 col-xs-12'>
         <div class='info-box'>
-          <span class='info-box-icon bg-green'><i class='ion ion-ios-cart-outline'></i></span>
+          <span class='info-box-icon bg-green'><i class='ion ion-ios-briefcase-outline'></i></span>
 
           <div class='info-box-content'>
-            <span class='info-box-text'>Sales</span>
+            <span class='info-box-text'>Employment</span>
             <span class='info-box-number'>760</span>
           </div>
           <!-- /.info-box-content -->
@@ -56,7 +54,7 @@
           <span class='info-box-icon bg-yellow'><i class='ion ion-ios-people-outline'></i></span>
 
           <div class='info-box-content'>
-            <span class='info-box-text'>New Members</span>
+            <span class='info-box-text'>Education</span>
             <span class='info-box-number'>2,000</span>
           </div>
           <!-- /.info-box-content -->
